@@ -1,10 +1,15 @@
-# weathernow
+# App Weather Now
 
 > Desafio Técnico Conta Azul feito com Vue.js
 
 ## Prerequisites
 
 Node > 8.x.x
+
+## Getting Started
+```
+git clone https://github.com/heliomsolivas/weather-now-desafio-conta-azul.git
+```
 
 ## Build Setup
 
