@@ -5,6 +5,9 @@
     Utilizado Vue.js como framework de javascript
     Metodologia BEM no desenvolvimento do CSS
     Webpack + PostCSS no desenvolvimento do app.
+    
+## Demo
+Demo hosted in Netlify: http://silly-lamport-89177e.netlify.com/
 
 ## Prerequisites
 

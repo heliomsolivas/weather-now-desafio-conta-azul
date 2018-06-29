@@ -56,7 +56,6 @@ export default {
         getActualDate(){
             let d = new Date();
             let currentDate =  d.toLocaleTimeString('pt-BR', {hour12: true});
-            console.log(currentDate);
             this.updatedAt = currentDate;
         },
         tempColor(tempValue){
@@ -76,7 +75,6 @@ export default {
                 this.weathers = res.data.list;
                 this.loading = false;
                 this.getActualDate();
-                console.log(this.weathers);
             })
             .catch(error => {
                 console.log(error)
