@@ -7,7 +7,7 @@
     Webpack + PostCSS no desenvolvimento do app.
     
 ## Demo
-Demo hosted in Netlify: http://silly-lamport-89177e.netlify.com/
+Demo hosted in Netlify: https://silly-lamport-89177e.netlify.com/
 
 ## Prerequisites
 
@@ -16,6 +16,7 @@ Node > 8.x.x
 ## Getting Started
 ```
 git clone https://github.com/heliomsolivas/weather-now-desafio-conta-azul.git
+cd weather-now-desafio-conta-azul
 ```
 
 ## Build Setup
