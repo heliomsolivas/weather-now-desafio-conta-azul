@@ -1,6 +1,10 @@
 # App Weather Now
 
 > Desafio Técnico Conta Azul feito com Vue.js
+    
+    Utilizado Vue.js como framework de javascript
+    Metodologia BEM no desenvolvimento do CSS
+    Webpack + PostCSS no desenvolvimento do app.
 
 ## Prerequisites
 
