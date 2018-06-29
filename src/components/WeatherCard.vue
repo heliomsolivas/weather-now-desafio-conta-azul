@@ -70,7 +70,7 @@ export default {
 
         makeRequest(){
             axios
-            .get('http://api.openweathermap.org/data/2.5/group?id=3421319,3445709,184745&units=metric&APPID=71567a2d63a02c0f1bb2b7eb0dda4c6b')
+            .get('https://api.openweathermap.org/data/2.5/group?id=3421319,3445709,184745&units=metric&APPID=71567a2d63a02c0f1bb2b7eb0dda4c6b')
             .then(res => {
                 this.weathers = res.data.list;
                 this.loading = false;
